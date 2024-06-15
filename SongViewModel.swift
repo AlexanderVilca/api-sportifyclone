@@ -6,11 +6,14 @@
 //
 
 import Foundation
-
+import AVKit
 
 class SongViewModel: ObservableObject {
     
     @Published var songs: [Song] = [Song]()
+    @Published var isPlay: Bool = false
+    
+    @Published var audioPlayer: AVPlayer?
     
     func makeHTTPRequest() async {
         guard let url = URL(string: "https://spotify-api-lac-kappa.vercel.app/api/songs") else {
@@ -33,6 +36,12 @@ class SongViewModel: ObservableObject {
             
         } catch let error {
             print("Error", error.localizedDescription)
+        }
+    }
+    
+    func playSong(url: String) {
+        if let url = URL(string: url){
+            self.audioPlayer = AVPlayer(url: url)
         }
     }
     
