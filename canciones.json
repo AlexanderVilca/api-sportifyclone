@@ -1,6 +1,7 @@
 {
   "canciones": [
     {
+      "id": 1,
       "nombre": "Smells Like Teen Spirit",
       "descripcion": "Canción icónica de grunge de Nirvana",
       "autor": "Nirvana",
@@ -8,6 +9,7 @@
       "imagen": "https://ejemplo.com/imagenes/smells_like_teen_spirit.jpg"
     },
     {
+      "id": 2,
       "nombre": "Stairway to Heaven",
       "descripcion": "Clásico del rock progresivo de Led Zeppelin",
       "autor": "Led Zeppelin",
@@ -15,6 +17,7 @@
       "imagen": "https://ejemplo.com/imagenes/stairway_to_heaven.jpg"
     },
     {
+      "id": 3,
       "nombre": "Bohemian Rhapsody",
       "descripcion": "Épica canción de rock de Queen",
       "autor": "Queen",
@@ -22,6 +25,7 @@
       "imagen": "https://ejemplo.com/imagenes/bohemian_rhapsody.jpg"
     },
     {
+      "id": 4,
       "nombre": "Sweet Child o' Mine",
       "descripcion": "Canción emblemática de hard rock de Guns N' Roses",
       "autor": "Guns N' Roses",
@@ -29,6 +33,7 @@
       "imagen": "https://ejemplo.com/imagenes/sweet_child_o_mine.jpg"
     },
     {
+      "id": 5,
       "nombre": "Back in Black",
       "descripcion": "Clásico del rock duro de AC/DC",
       "autor": "AC/DC",
@@ -36,6 +41,7 @@
       "imagen": "https://ejemplo.com/imagenes/back_in_black.jpg"
     },
     {
+      "id": 6,
       "nombre": "Hotel California",
       "descripcion": "Canción de rock clásico de Eagles",
       "autor": "Eagles",
@@ -43,6 +49,7 @@
       "imagen": "https://ejemplo.com/imagenes/hotel_california.jpg"
     },
     {
+      "id": 7,
       "nombre": "Highway to Hell",
       "descripcion": "Rock and roll potente de AC/DC",
       "autor": "AC/DC",
@@ -50,6 +57,7 @@
       "imagen": "https://ejemplo.com/imagenes/highway_to_hell.jpg"
     },
     {
+      "id": 8,
       "nombre": "Livin' on a Prayer",
       "descripcion": "Canción de rock y glam metal de Bon Jovi",
       "autor": "Bon Jovi",
@@ -57,6 +65,7 @@
       "imagen": "https://ejemplo.com/imagenes/livin_on_a_prayer.jpg"
     },
     {
+      "id": 9,
       "nombre": "November Rain",
       "descripcion": "Épica balada rock de Guns N' Roses",
       "autor": "Guns N' Roses",
@@ -64,6 +73,7 @@
       "imagen": "https://ejemplo.com/imagenes/november_rain.jpg"
     },
     {
+      "id": 10,
       "nombre": "Under the Bridge",
       "descripcion": "Melancólica canción de rock alternativo de Red Hot Chili Peppers",
       "autor": "Red Hot Chili Peppers",
