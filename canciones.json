@@ -1,0 +1,74 @@
+{
+  "canciones": [
+    {
+      "nombre": "Smells Like Teen Spirit",
+      "descripcion": "Canción icónica de grunge de Nirvana",
+      "autor": "Nirvana",
+      "url_mp3": "https://ejemplo.com/canciones/smells_like_teen_spirit.mp3",
+      "imagen": "https://ejemplo.com/imagenes/smells_like_teen_spirit.jpg"
+    },
+    {
+      "nombre": "Stairway to Heaven",
+      "descripcion": "Clásico del rock progresivo de Led Zeppelin",
+      "autor": "Led Zeppelin",
+      "url_mp3": "https://ejemplo.com/canciones/stairway_to_heaven.mp3",
+      "imagen": "https://ejemplo.com/imagenes/stairway_to_heaven.jpg"
+    },
+    {
+      "nombre": "Bohemian Rhapsody",
+      "descripcion": "Épica canción de rock de Queen",
+      "autor": "Queen",
+      "url_mp3": "https://ejemplo.com/canciones/bohemian_rhapsody.mp3",
+      "imagen": "https://ejemplo.com/imagenes/bohemian_rhapsody.jpg"
+    },
+    {
+      "nombre": "Sweet Child o' Mine",
+      "descripcion": "Canción emblemática de hard rock de Guns N' Roses",
+      "autor": "Guns N' Roses",
+      "url_mp3": "https://ejemplo.com/canciones/sweet_child_o_mine.mp3",
+      "imagen": "https://ejemplo.com/imagenes/sweet_child_o_mine.jpg"
+    },
+    {
+      "nombre": "Back in Black",
+      "descripcion": "Clásico del rock duro de AC/DC",
+      "autor": "AC/DC",
+      "url_mp3": "https://ejemplo.com/canciones/back_in_black.mp3",
+      "imagen": "https://ejemplo.com/imagenes/back_in_black.jpg"
+    },
+    {
+      "nombre": "Hotel California",
+      "descripcion": "Canción de rock clásico de Eagles",
+      "autor": "Eagles",
+      "url_mp3": "https://ejemplo.com/canciones/hotel_california.mp3",
+      "imagen": "https://ejemplo.com/imagenes/hotel_california.jpg"
+    },
+    {
+      "nombre": "Highway to Hell",
+      "descripcion": "Rock and roll potente de AC/DC",
+      "autor": "AC/DC",
+      "url_mp3": "https://ejemplo.com/canciones/highway_to_hell.mp3",
+      "imagen": "https://ejemplo.com/imagenes/highway_to_hell.jpg"
+    },
+    {
+      "nombre": "Livin' on a Prayer",
+      "descripcion": "Canción de rock y glam metal de Bon Jovi",
+      "autor": "Bon Jovi",
+      "url_mp3": "https://ejemplo.com/canciones/livin_on_a_prayer.mp3",
+      "imagen": "https://ejemplo.com/imagenes/livin_on_a_prayer.jpg"
+    },
+    {
+      "nombre": "November Rain",
+      "descripcion": "Épica balada rock de Guns N' Roses",
+      "autor": "Guns N' Roses",
+      "url_mp3": "https://ejemplo.com/canciones/november_rain.mp3",
+      "imagen": "https://ejemplo.com/imagenes/november_rain.jpg"
+    },
+    {
+      "nombre": "Under the Bridge",
+      "descripcion": "Melancólica canción de rock alternativo de Red Hot Chili Peppers",
+      "autor": "Red Hot Chili Peppers",
+      "url_mp3": "https://ejemplo.com/canciones/under_the_bridge.mp3",
+      "imagen": "https://ejemplo.com/imagenes/under_the_bridge.jpg"
+    }
+  ]
+}
